@@ -1,0 +1,8 @@
+logarithm(x=power(x=7, y=add(x=8 ,y=2)))
+
+
+
+subtract(x=multiply(x=5.4,
+                    y=6),
+        y=divide(x=10.01,
+                y=exponential(x=-1.2)))

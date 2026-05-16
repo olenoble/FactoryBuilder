@@ -8,8 +8,6 @@ import logging
 logging.getLogger().setLevel(logging.INFO)
 
 
-# from factory.math import basic, advanced
-
 class Factory:
     all_functions = {}
 

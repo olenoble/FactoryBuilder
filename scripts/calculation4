@@ -1,0 +1,8 @@
+.DATA
+x=5
+y=8
+
+.CODE
+$res = logarithm(x=power(x=$x,
+        y=add(x=8 ,y=$y)))
+$res2=subtract(x=multiply(x=5.4, y=$res), y=divide(x=10.01, y=exponential(x=-1.2))
