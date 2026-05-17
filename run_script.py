@@ -6,7 +6,7 @@ if __name__ == '__main__':
     f = Factory()
 
     # ready file
-    file_name = 'calculation3'
+    file_name = 'calculation4'
     with open(f'scripts/{file_name}', 'r') as s:
         user_input = s.read()
 
